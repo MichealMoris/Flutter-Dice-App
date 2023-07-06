@@ -1,0 +1,22 @@
+Flutter Dice Roller App
+=======================
+
+This is a simple dice roller application built with Flutter for the purpose of learning how to develop mobile applications using Flutter.
+
+Features:
+
+-   Tap on the screen to roll the dice
+-   Simple and intuitive user interface
+
+This project serves as a basic introduction to Flutter development, covering topics such as:
+
+-   Building UI layouts using Flutter widgets
+-   Handling user input and user interface events
+-   Packaging and deploying applications on Android and iOS devices
+
+Feel free to fork and customize this project to your own liking, or use it as a starting point for your own Flutter app development. Happy coding!
+<br>
+<div align="center">
+    <img src="https://github.com/MichealMoris/Dice-App/assets/138615256/1a26ce0b-1fc2-4e20-9e6c-aecbc3221e5f" width="400px"></img>
+  <img src="https://github.com/MichealMoris/Dice-App/assets/138615256/76bd0194-041f-4ec8-becb-31f21a961f3e" width="400px"></img>
+</div>
